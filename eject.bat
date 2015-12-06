@@ -1,0 +1,1 @@
+dllinject.exe --lib "%CD%\ProvokeEverybody.dll" --procname "Client_tos.exe" --dbgpriv --eject
